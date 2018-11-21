@@ -1,0 +1,23 @@
+{
+  "name": "web-shim-testing",
+  "version": "1.0.0",
+  "description": "testing library for agent-web-shim",
+  "main": "index.js",
+  "dependencies": {
+    "agent-web-shim": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thedolie/web-shim-testing.git"
+  },
+  "author": "Joe Genereux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thedolie/web-shim-testing/issues"
+  },
+  "homepage": "https://github.com/thedolie/web-shim-testing#readme"
+}

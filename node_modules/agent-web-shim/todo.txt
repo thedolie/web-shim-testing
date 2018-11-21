@@ -1,0 +1,6 @@
+Todos:
+
+NOT in order of importance
+
+1. Build an actual json message, or several, to fully comprehend how it will look at a protocol level
+2. create a real world "model" or example of how this will look. For example "http://google.com/images/cats" and how common operations like a DB look up will look like, etc. 
